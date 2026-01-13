@@ -1,5 +1,13 @@
-### 👋 Yo! I'm Smriti
+# 👋 Hi, I'm Smriti
 
-💻 React Developer | 🌱 Learning Node.js 
+I write code.
+And it teaches me humility.
 
-<img width="268" height="215" alt="image" src="https://github.com/user-attachments/assets/7739935e-0f63-47eb-8f9b-ea51761c6467" />
+## Currently surviving:
+- React (when docs cooperate)
+- JavaScript (we’re in a situationship)
+- LIFE
+
+## Fun Fact
+Fun fact: I debug better after crying.
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm9uZzd0aXB5ZWcwcWdybXlsOWVjN2d2Zm5hZzd3ampodjd0emw1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okfvUCpgArv3y/giphy.gif
