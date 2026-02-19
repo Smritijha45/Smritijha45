@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Smriti
+![Demo GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGFuZ3ZnZGhmbDJydm95MWgzdXdlcjcwbzRqY2M5MG11eDIzdjI2ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/C5euAYImtRqZe1z5Jo/giphy.gif)
 
-https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGFuZ3ZnZGhmbDJydm95MWgzdXdlcjcwbzRqY2M5MG11eDIzdjI2ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/C5euAYImtRqZe1z5Jo/giphy.gif
 
 ## Currently surviving:
 - React (when docs cooperate)
