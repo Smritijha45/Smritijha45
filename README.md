@@ -3,9 +3,13 @@
 
 
 ## Currently surviving:
-- React (when docs cooperate)
-- JavaScript (we’re in a situationship)
-- LIFE
+
+* React (when the docs cooperate)
+* JavaScript (we're still in a situationship)
+* MERN Stack (somehow it's working)
+* Redis (because speed matters)
+* LIFE (still debugging that one)
+
 
 ## Fun Fact
 Fun fact: I debug better after crying.
